@@ -1,0 +1,19 @@
+{
+  "name": "Workerpool Implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rajan Brahma",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "path": "^0.12.7",
+    "workerpool": "^6.2.1"
+  }
+}
