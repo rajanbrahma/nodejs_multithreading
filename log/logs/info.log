@@ -1,0 +1,9 @@
+2022-08-12T21:16:18.126Z => info: Server started successfully at port 3000.
+13 August 2022 => info: Server started successfully at port 3000.
+August 13, 2022 => info: Server started successfully at port 3000.
+August 13, 2022, 2:53 AM => info: Server started successfully at port 3000.
+System time: August 13, 2022, 2:54 AM => info: Server started successfully at port 3000.
+August 13, 2022, 2:57 AM => info: Server started successfully at port 3000.
+August 13, 2022, 2:58 AM => info: Server started successfully at port 3000.
+August 13, 2022, 2:59 AM => info: Server started successfully at port 3000.
+August 13, 2022, 2:59 AM => error: 400 Bad request. ERROR : "passwordToBeEncrypted" length must be at least 8 characters long
