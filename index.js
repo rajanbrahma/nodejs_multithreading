@@ -2,8 +2,8 @@ const express = require('express');
 const Route = require('./routes/route');
 const {init} = require('./init/init');
 const { default: helmet } = require('helmet');
-const logger = require('./log/logger');
 const morgan = require('morgan');
+const logger = require('./utilities/logger');
 
 const app = express();
 

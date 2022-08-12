@@ -1,6 +1,6 @@
 const Joi = require("joi");
 const { PASSWORD_REGEX } = require("../constants/constants");
-const logger = require("../log/logger");
+const logger = require("../utilities/logger");
 
 const encryptPasswordSchema = Joi.object({
     passwordToBeEncrypted: Joi.string().min(8).max(10).pattern(new RegExp(PASSWORD_REGEX)).required()
